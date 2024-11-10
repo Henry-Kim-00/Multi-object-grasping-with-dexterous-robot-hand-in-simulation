@@ -5,7 +5,7 @@ By repeating grasp - flip - drop - storage motion, grasp multiple objects one-by
 # Grasp  
 
 
-https://github.com/user-attachments/assets/ccf2a81b-532b-4737-9113-7ef2c9c86767
+https://github.com/user-attachments/assets/907c7644-3e33-4562-860a-7c199a672035
 
 
 # Flip  
